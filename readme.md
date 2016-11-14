@@ -1,6 +1,6 @@
 #Dynamic bar chart
 
-Use can
+User can
 * Add a bar on left
 * Add a bar on right
 * Remove a bar from left
