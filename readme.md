@@ -10,3 +10,5 @@ User can
 * Randomly generate a set of bars
 
 Implemented with d3.v4.
+
+You can view the resulting web page [here](https://quantbo.github.io/).
