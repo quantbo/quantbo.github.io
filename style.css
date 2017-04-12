@@ -1,0 +1,26 @@
+a {
+    font-weight: bolder;
+}
+body {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font: 19px sans-serif;
+    font-weight: 100;
+    margin-left: 4%;
+    margin-top: 2%;
+}
+h1 {
+    font-weight: normal;
+}
+/*
+h1 {
+    font-family: sans-serif;
+    font-weight: normal;
+}
+*/
+.published {
+    display: block;
+    font-family: serif;
+    font-style: italic;
+    font-size: 0.85em;
+    margin-top: 4px;
+}
