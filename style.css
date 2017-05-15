@@ -3,7 +3,7 @@ a {
 }
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    font: 19px sans-serif;
+    font-size: 19px;
     font-weight: 100;
     margin-left: 4%;
     margin-top: 2%;
@@ -11,12 +11,6 @@ body {
 h1 {
     font-weight: normal;
 }
-/*
-h1 {
-    font-family: sans-serif;
-    font-weight: normal;
-}
-*/
 .published {
     display: block;
     font-family: serif;
