@@ -12,7 +12,8 @@ body {
 }
 h1 {
     font-weight: normal;
-    font-size: 1.9em; 
+    font-size: 1.9em;
+    margin-top: 1em; 
 }
 .published {
     display: block;
