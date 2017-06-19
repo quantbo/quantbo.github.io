@@ -1,7 +1,14 @@
 a {
-    display: block;
-    font-weight: bolder;
-    margin-top: 1em;
+  color: black;
+  display: block;
+  font-weight: bolder;
+  margin-top: 1em;
+  padding-left: 1em;
+  text-decoration: none;
+}
+a:hover {
+  border-left: 2px solid red;
+  color: navy;
 }
 body {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -16,12 +23,17 @@ h1 {
     font-size: 1.9em;
     margin-top: 1em; 
 }
+.title {
+  display: block;
+  font-family: sans-serif;
+}
 .published {
     display: block;
     font-family: serif;
     font-style: italic;
     font-size: 0.85em;
-    margin-top: 4px;
+    margin-bottom: 2px;
+    margin-top: 2px;
 }
 .topics {
     display: block;
